@@ -196,7 +196,7 @@ function startRecord(force) {
   }
 
   //Bangle.setPollInterval(80); // 12.5 Hz - the default
-  Bangle.setPollInterval(10); // 100 Hz
+  Bangle.setPollInterval(40); // 100 Hz
   Bangle.on('accel', accelHandler);
 }
 
