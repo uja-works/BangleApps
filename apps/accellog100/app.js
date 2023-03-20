@@ -3,7 +3,7 @@ var MAXLOGS = 9;
 var logRawData = false;
 
 function getFileName(n) {
-  return "accellog."+n+".csv";
+  return "accellog100."+n+".csv";
 }
 
 function showMenu() {
