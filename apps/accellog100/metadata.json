@@ -10,8 +10,8 @@
   "readme": "README.md",
   "interface": "interface.html",
   "storage": [
-    {"name":"accellog.app.js","url":"app.js"},
-    {"name":"accellog.img","url":"app-icon.js","evaluate":true}
+    {"name":"accellog100.app.js","url":"app.js"},
+    {"name":"accellog100.img","url":"app-icon.js","evaluate":true}
   ],
-  "data": [{"wildcard":"accellog.?.csv"}]
+  "data": [{"wildcard":"accellog100.?.csv"}]
 }
