@@ -1,4 +1,4 @@
-# Acceleration Logger
+# Acceleration Logger 100
 
 Logs XYZ acceleration data (at the normal 12.5Hz) to a CSV file that can be downloaded to your PC.
 
